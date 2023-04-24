@@ -82,7 +82,7 @@ npm run dev
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Appolo](https://www.apollographql.com/)
+- [Apollo GraphQL](https://www.apollographql.com/)
 - [GraphCMS](https://graphcms.com/)
 - [GraphQL](https://graphql.org/)
 - [ReactJS](https://pt-br.reactjs.org/)
